@@ -12,4 +12,4 @@ A Python-based command terminal that replicates basic system terminal functional
 ## Installation
 ```bash
 pip install -r requirements.txt
-python main.py
+python3 main.py
